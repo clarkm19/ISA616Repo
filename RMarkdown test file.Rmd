@@ -26,6 +26,9 @@ head(mtcars)
 summary(mtcars)
 ```
 
+#test edit
+mean(mtcars$mpg)
+
 
 
 
